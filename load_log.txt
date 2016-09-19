@@ -1,0 +1,364 @@
+
+
+2016-09-16 20:54:32.366000
+cpu: [21.8, 27.0, 28.1, 3.1]
+mem: svmem(total=17055121408L, available=9729122304L, percent=43.0, used=7325999104L, free=9729122304L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831007, read_bytes=16405914624L, write_bytes=48486011904L, read_time=79019010L, write_time=393642260L)}
+net: snetio(bytes_sent=183873697L, bytes_recv=944724205L, packets_sent=699674L, packets_recv=922941L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:33.890000
+cpu: [36.4, 23.4, 40.6, 9.2]
+mem: svmem(total=17055121408L, available=9725505536L, percent=43.0, used=7329615872L, free=9725505536L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831008, read_bytes=16405914624L, write_bytes=48486012416L, read_time=79019010L, write_time=393643840L)}
+net: snetio(bytes_sent=183880563L, bytes_recv=944731294L, packets_sent=699694L, packets_recv=922957L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:35.402000
+cpu: [27.9, 17.1, 26.6, 3.1]
+mem: svmem(total=17055121408L, available=9718054912L, percent=43.0, used=7337066496L, free=9718054912L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831025, read_bytes=16405914624L, write_bytes=48487249920L, read_time=79019010L, write_time=393650760L)}
+net: snetio(bytes_sent=183881121L, bytes_recv=944735629L, packets_sent=699700L, packets_recv=922965L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:36.918000
+cpu: [29.8, 6.2, 15.6, 6.2]
+mem: svmem(total=17055121408L, available=9715564544L, percent=43.0, used=7339556864L, free=9715564544L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831065, read_bytes=16405914624L, write_bytes=48487483904L, read_time=79019010L, write_time=393652880L)}
+net: snetio(bytes_sent=183881839L, bytes_recv=944743206L, packets_sent=699704L, packets_recv=922970L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:38.430000
+cpu: [13.6, 10.9, 16.8, 1.6]
+mem: svmem(total=17055121408L, available=9684213760L, percent=43.2, used=7370907648L, free=9684213760L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831077, read_bytes=16405914624L, write_bytes=48487867904L, read_time=79019010L, write_time=393664110L)}
+net: snetio(bytes_sent=183881949L, bytes_recv=944747700L, packets_sent=699705L, packets_recv=922973L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:39.965000
+cpu: [17.2, 6.3, 14.1, 0.0]
+mem: svmem(total=17055121408L, available=9680035840L, percent=43.2, used=7375085568L, free=9680035840L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831077, read_bytes=16405914624L, write_bytes=48487867904L, read_time=79019010L, write_time=393664110L)}
+net: snetio(bytes_sent=183882275L, bytes_recv=944749781L, packets_sent=699707L, packets_recv=922974L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:41.481000
+cpu: [87.7, 90.6, 95.3, 79.7]
+mem: svmem(total=17055121408L, available=8758288384L, percent=48.6, used=8296833024L, free=8758288384L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825773, write_count=1831084, read_bytes=16405914624L, write_bytes=48489997824L, read_time=79019010L, write_time=393674160L)}
+net: snetio(bytes_sent=183882332L, bytes_recv=944752290L, packets_sent=699708L, packets_recv=922977L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:42.995000
+cpu: [73.8, 84.4, 89.0, 82.8]
+mem: svmem(total=17055121408L, available=7431376896L, percent=56.4, used=9623744512L, free=7431376896L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825774, write_count=1831118, read_bytes=16405915136L, write_bytes=48492470784L, read_time=79019030L, write_time=393683240L)}
+net: snetio(bytes_sent=183882658L, bytes_recv=944757439L, packets_sent=699711L, packets_recv=922982L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:44.526000
+cpu: [100.0, 100.0, 100.0, 100.0]
+mem: svmem(total=17055121408L, available=6267473920L, percent=63.3, used=10787647488L, free=6267473920L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825808, write_count=1831126, read_bytes=16406554112L, write_bytes=48495507456L, read_time=79020220L, write_time=393686480L)}
+net: snetio(bytes_sent=183882715L, bytes_recv=944763176L, packets_sent=699712L, packets_recv=922985L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:46.522000
+cpu: [95.5, 89.2, 90.6, 92.2]
+mem: svmem(total=17055121408L, available=4916006912L, percent=71.2, used=12139114496L, free=4916006912L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825875, write_count=1831162, read_bytes=16407328256L, write_bytes=48499100672L, read_time=79024300L, write_time=393688900L)}
+net: snetio(bytes_sent=183883075L, bytes_recv=944769619L, packets_sent=699716L, packets_recv=922989L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:48.077000
+cpu: [90.8, 89.1, 98.4, 79.7]
+mem: svmem(total=17055121408L, available=4578963456L, percent=73.2, used=12476157952L, free=4578963456L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831206, read_bytes=16408778240L, write_bytes=48502171648L, read_time=79028540L, write_time=393690630L)}
+net: snetio(bytes_sent=183883075L, bytes_recv=944772648L, packets_sent=699716L, packets_recv=922991L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:49.638000
+cpu: [83.1, 87.5, 98.4, 93.7]
+mem: svmem(total=17055121408L, available=4456689664L, percent=73.9, used=12598431744L, free=4456689664L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831213, read_bytes=16408778240L, write_bytes=48504481792L, read_time=79028540L, write_time=393692900L)}
+net: snetio(bytes_sent=183883132L, bytes_recv=944775612L, packets_sent=699717L, packets_recv=922994L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:51.154000
+cpu: [81.2, 87.5, 96.9, 81.2]
+mem: svmem(total=17055121408L, available=4324519936L, percent=74.6, used=12730601472L, free=4324519936L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831282, read_bytes=16408778240L, write_bytes=48507186688L, read_time=79028540L, write_time=393701910L)}
+net: snetio(bytes_sent=183883403L, bytes_recv=944780847L, packets_sent=699719L, packets_recv=922999L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:52.673000
+cpu: [81.2, 82.8, 92.2, 82.8]
+mem: svmem(total=17055121408L, available=4586741760L, percent=73.1, used=12468379648L, free=4586741760L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831292, read_bytes=16408778240L, write_bytes=48511380992L, read_time=79028540L, write_time=393707560L)}
+net: snetio(bytes_sent=183883460L, bytes_recv=944784286L, packets_sent=699720L, packets_recv=923003L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:54.227000
+cpu: [87.9, 86.1, 93.8, 72.3]
+mem: svmem(total=17055121408L, available=4414914560L, percent=74.1, used=12640206848L, free=4414914560L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831316, read_bytes=16408778240L, write_bytes=48513636352L, read_time=79028540L, write_time=393716620L)}
+net: snetio(bytes_sent=183883514L, bytes_recv=944787812L, packets_sent=699721L, packets_recv=923005L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:55.752000
+cpu: [83.3, 78.1, 89.0, 92.2]
+mem: svmem(total=17055121408L, available=4410433536L, percent=74.1, used=12644687872L, free=4410433536L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831318, read_bytes=16408778240L, write_bytes=48515733504L, read_time=79028540L, write_time=393718770L)}
+net: snetio(bytes_sent=183883514L, bytes_recv=944789223L, packets_sent=699721L, packets_recv=923006L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:57.271000
+cpu: [90.8, 95.3, 95.3, 73.4]
+mem: svmem(total=17055121408L, available=4562612224L, percent=73.2, used=12492509184L, free=4562612224L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831324, read_bytes=16408778240L, write_bytes=48518723584L, read_time=79028540L, write_time=393722150L)}
+net: snetio(bytes_sent=183883571L, bytes_recv=944793893L, packets_sent=699722L, packets_recv=923010L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:54:58.788000
+cpu: [93.7, 93.7, 93.7, 82.8]
+mem: svmem(total=17055121408L, available=4329230336L, percent=74.6, used=12725891072L, free=4329230336L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831335, read_bytes=16408778240L, write_bytes=48523003904L, read_time=79028540L, write_time=393728630L)}
+net: snetio(bytes_sent=183883681L, bytes_recv=944798746L, packets_sent=699724L, packets_recv=923015L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:00.302000
+cpu: [90.6, 93.7, 96.9, 79.7]
+mem: svmem(total=17055121408L, available=4527353856L, percent=73.5, used=12527767552L, free=4527353856L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825959, write_count=1831338, read_bytes=16408778240L, write_bytes=48524687360L, read_time=79028540L, write_time=393732510L)}
+net: snetio(bytes_sent=183883835L, bytes_recv=944825446L, packets_sent=699727L, packets_recv=923018L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:01.841000
+cpu: [90.9, 90.8, 90.8, 87.7]
+mem: svmem(total=17055121408L, available=4530663424L, percent=73.4, used=12524457984L, free=4530663424L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831340, read_bytes=16408843776L, write_bytes=48526784512L, read_time=79028750L, write_time=393734650L)}
+net: snetio(bytes_sent=183883835L, bytes_recv=944834508L, packets_sent=699727L, packets_recv=923019L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:03.376000
+cpu: [87.9, 86.1, 95.4, 81.5]
+mem: svmem(total=17055121408L, available=4438171648L, percent=74.0, used=12616949760L, free=4438171648L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831349, read_bytes=16408843776L, write_bytes=48528965120L, read_time=79028750L, write_time=393744680L)}
+net: snetio(bytes_sent=183883890L, bytes_recv=944841955L, packets_sent=699728L, packets_recv=923021L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:04.895000
+cpu: [92.3, 95.4, 100.0, 89.2]
+mem: svmem(total=17055121408L, available=4394024960L, percent=74.2, used=12661096448L, free=4394024960L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831352, read_bytes=16408843776L, write_bytes=48532110848L, read_time=79028750L, write_time=393747420L)}
+net: snetio(bytes_sent=183895864L, bytes_recv=944857600L, packets_sent=699764L, packets_recv=923056L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:06.970000
+cpu: [94.0, 87.3, 87.5, 82.8]
+mem: svmem(total=17055121408L, available=4324569088L, percent=74.6, used=12730552320L, free=4324569088L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831436, read_bytes=16408843776L, write_bytes=48538187264L, read_time=79028750L, write_time=393760020L)}
+net: snetio(bytes_sent=183896815L, bytes_recv=944867564L, packets_sent=699772L, packets_recv=923067L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:08.519000
+cpu: [91.0, 96.9, 96.9, 68.7]
+mem: svmem(total=17055121408L, available=4365627392L, percent=74.4, used=12689494016L, free=4365627392L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831499, read_bytes=16408843776L, write_bytes=48543632896L, read_time=79028750L, write_time=393790480L)}
+net: snetio(bytes_sent=183897042L, bytes_recv=944871751L, packets_sent=699775L, packets_recv=923072L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:10.044000
+cpu: [95.4, 98.4, 96.9, 78.1]
+mem: svmem(total=17055121408L, available=4554350592L, percent=73.3, used=12500770816L, free=4554350592L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831502, read_bytes=16408843776L, write_bytes=48544689664L, read_time=79028750L, write_time=393793920L)}
+net: snetio(bytes_sent=183897042L, bytes_recv=944874088L, packets_sent=699775L, packets_recv=923074L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:11.580000
+cpu: [89.4, 95.4, 100.0, 92.3]
+mem: svmem(total=17055121408L, available=4403081216L, percent=74.2, used=12652040192L, free=4403081216L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831552, read_bytes=16408843776L, write_bytes=48549932544L, read_time=79028750L, write_time=393797960L)}
+net: snetio(bytes_sent=183899886L, bytes_recv=944882020L, packets_sent=699785L, packets_recv=923081L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:13.151000
+cpu: [90.8, 95.3, 96.9, 85.9]
+mem: svmem(total=17055121408L, available=4489437184L, percent=73.7, used=12565684224L, free=4489437184L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831606, read_bytes=16408843776L, write_bytes=48554155520L, read_time=79028750L, write_time=393814360L)}
+net: snetio(bytes_sent=183901978L, bytes_recv=944892859L, packets_sent=699799L, packets_recv=923091L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:14.673000
+cpu: [84.4, 92.2, 87.3, 90.6]
+mem: svmem(total=17055121408L, available=4389756928L, percent=74.3, used=12665364480L, free=4389756928L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831643, read_bytes=16408843776L, write_bytes=48558403072L, read_time=79028750L, write_time=393829010L)}
+net: snetio(bytes_sent=183903774L, bytes_recv=944901926L, packets_sent=699807L, packets_recv=923096L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:16.188000
+cpu: [84.6, 93.7, 95.3, 84.4]
+mem: svmem(total=17055121408L, available=4409511936L, percent=74.1, used=12645609472L, free=4409511936L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831704, read_bytes=16408843776L, write_bytes=48561664000L, read_time=79028750L, write_time=393844900L)}
+net: snetio(bytes_sent=183904314L, bytes_recv=944907782L, packets_sent=699815L, packets_recv=923104L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:17.749000
+cpu: [93.9, 87.5, 92.2, 89.1]
+mem: svmem(total=17055121408L, available=4529876992L, percent=73.4, used=12525244416L, free=4529876992L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831706, read_bytes=16408843776L, write_bytes=48563761152L, read_time=79028750L, write_time=393847030L)}
+net: snetio(bytes_sent=183905306L, bytes_recv=944914785L, packets_sent=699824L, packets_recv=923113L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:19.263000
+cpu: [88.0, 87.5, 90.6, 95.3]
+mem: svmem(total=17055121408L, available=4542533632L, percent=73.4, used=12512587776L, free=4542533632L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831740, read_bytes=16408843776L, write_bytes=48566910976L, read_time=79028750L, write_time=393861280L)}
+net: snetio(bytes_sent=183905361L, bytes_recv=944921099L, packets_sent=699825L, packets_recv=923115L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:20.820000
+cpu: [83.1, 92.2, 93.7, 95.3]
+mem: svmem(total=17055121408L, available=4435591168L, percent=74.0, used=12619530240L, free=4435591168L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831756, read_bytes=16408843776L, write_bytes=48570493952L, read_time=79028750L, write_time=393864670L)}
+net: snetio(bytes_sent=183906350L, bytes_recv=944930394L, packets_sent=699834L, packets_recv=923121L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:22.345000
+cpu: [93.8, 89.1, 98.4, 87.5]
+mem: svmem(total=17055121408L, available=4457521152L, percent=73.9, used=12597600256L, free=4457521152L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831758, read_bytes=16408843776L, write_bytes=48572591104L, read_time=79028750L, write_time=393868510L)}
+net: snetio(bytes_sent=183906350L, bytes_recv=944932817L, packets_sent=699834L, packets_recv=923121L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:23.862000
+cpu: [95.4, 96.9, 98.4, 89.0]
+mem: svmem(total=17055121408L, available=4383617024L, percent=74.3, used=12671504384L, free=4383617024L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831764, read_bytes=16408843776L, write_bytes=48574757888L, read_time=79028750L, write_time=393870710L)}
+net: snetio(bytes_sent=183906447L, bytes_recv=944936487L, packets_sent=699836L, packets_recv=923124L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:25.381000
+cpu: [95.4, 92.3, 93.8, 93.8]
+mem: svmem(total=17055121408L, available=4660277248L, percent=72.7, used=12394844160L, free=4660277248L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831766, read_bytes=16408843776L, write_bytes=48576855040L, read_time=79028750L, write_time=393871660L)}
+net: snetio(bytes_sent=183906614L, bytes_recv=944942466L, packets_sent=699839L, packets_recv=923127L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:26.926000
+cpu: [87.9, 89.1, 93.7, 84.6]
+mem: svmem(total=17055121408L, available=4282068992L, percent=74.9, used=12773052416L, free=4282068992L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831769, read_bytes=16408843776L, write_bytes=48579832832L, read_time=79028750L, write_time=393875890L)}
+net: snetio(bytes_sent=183906614L, bytes_recv=944945882L, packets_sent=699839L, packets_recv=923129L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:28.444000
+cpu: [94.1, 95.3, 96.9, 81.2]
+mem: svmem(total=17055121408L, available=4556832768L, percent=73.3, used=12498288640L, free=4556832768L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831811, read_bytes=16408843776L, write_bytes=48582141440L, read_time=79028750L, write_time=393903140L)}
+net: snetio(bytes_sent=183906726L, bytes_recv=944950768L, packets_sent=699841L, packets_recv=923133L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:29.988000
+cpu: [97.0, 90.6, 90.6, 85.9]
+mem: svmem(total=17055121408L, available=4453359616L, percent=73.9, used=12601761792L, free=4453359616L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831814, read_bytes=16408843776L, write_bytes=48584242688L, read_time=79028750L, write_time=393905290L)}
+net: snetio(bytes_sent=183906726L, bytes_recv=944955201L, packets_sent=699841L, packets_recv=923134L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:31.503000
+cpu: [93.7, 98.4, 98.4, 71.8]
+mem: svmem(total=17055121408L, available=4470820864L, percent=73.8, used=12584300544L, free=4470820864L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831822, read_bytes=16408843776L, write_bytes=48586784256L, read_time=79028750L, write_time=393916850L)}
+net: snetio(bytes_sent=183906768L, bytes_recv=944962365L, packets_sent=699842L, packets_recv=923135L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:33.042000
+cpu: [92.4, 90.6, 95.3, 90.6]
+mem: svmem(total=17055121408L, available=4601901056L, percent=73.0, used=12453220352L, free=4601901056L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831868, read_bytes=16408843776L, write_bytes=48588164096L, read_time=79028750L, write_time=393933120L)}
+net: snetio(bytes_sent=183916428L, bytes_recv=944972790L, packets_sent=699870L, packets_recv=923162L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:34.559000
+cpu: [89.4, 96.9, 92.2, 85.9]
+mem: svmem(total=17055121408L, available=4366983168L, percent=74.4, used=12688138240L, free=4366983168L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831907, read_bytes=16408843776L, write_bytes=48590532608L, read_time=79028750L, write_time=393935620L)}
+net: snetio(bytes_sent=183918949L, bytes_recv=944978832L, packets_sent=699882L, packets_recv=923170L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:36.135000
+cpu: [87.7, 98.5, 87.7, 84.6]
+mem: svmem(total=17055121408L, available=4452306944L, percent=73.9, used=12602814464L, free=4452306944L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831927, read_bytes=16408843776L, write_bytes=48591683072L, read_time=79028750L, write_time=393940760L)}
+net: snetio(bytes_sent=183919230L, bytes_recv=944982375L, packets_sent=699883L, packets_recv=923172L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:37.717000
+cpu: [92.3, 82.8, 95.3, 87.5]
+mem: svmem(total=17055121408L, available=4591099904L, percent=73.1, used=12464021504L, free=4591099904L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825964, write_count=1831929, read_bytes=16408843776L, write_bytes=48593018368L, read_time=79028750L, write_time=393942700L)}
+net: snetio(bytes_sent=183919287L, bytes_recv=944987505L, packets_sent=699884L, packets_recv=923175L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:39.267000
+cpu: [91.0, 93.7, 96.9, 84.4]
+mem: svmem(total=17055121408L, available=4316176384L, percent=74.7, used=12738945024L, free=4316176384L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1831957, read_bytes=16409159168L, write_bytes=48594231296L, read_time=79029340L, write_time=393951030L)}
+net: snetio(bytes_sent=183919503L, bytes_recv=944991286L, packets_sent=699885L, packets_recv=923178L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:40.846000
+cpu: [95.5, 90.6, 92.2, 84.4]
+mem: svmem(total=17055121408L, available=4556763136L, percent=73.3, used=12498358272L, free=4556763136L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1831978, read_bytes=16409159168L, write_bytes=48596222976L, read_time=79029340L, write_time=393957960L)}
+net: snetio(bytes_sent=183919734L, bytes_recv=944994525L, packets_sent=699886L, packets_recv=923180L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:42.362000
+cpu: [95.5, 93.8, 92.3, 92.3]
+mem: svmem(total=17055121408L, available=4230676480L, percent=75.2, used=12824444928L, free=4230676480L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1831994, read_bytes=16409159168L, write_bytes=48597451264L, read_time=79029340L, write_time=393970920L)}
+net: snetio(bytes_sent=183919734L, bytes_recv=944997954L, packets_sent=699886L, packets_recv=923182L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:43.940000
+cpu: [86.3, 95.3, 97.0, 87.5]
+mem: svmem(total=17055121408L, available=4457566208L, percent=73.9, used=12597555200L, free=4457566208L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1831996, read_bytes=16409159168L, write_bytes=48598872576L, read_time=79029340L, write_time=393972880L)}
+net: snetio(bytes_sent=183919844L, bytes_recv=945000797L, packets_sent=699888L, packets_recv=923186L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:45.464000
+cpu: [92.1, 98.4, 95.3, 87.5]
+mem: svmem(total=17055121408L, available=4723810304L, percent=72.3, used=12331311104L, free=4723810304L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1832013, read_bytes=16409159168L, write_bytes=48600013824L, read_time=79029340L, write_time=393979540L)}
+net: snetio(bytes_sent=183919956L, bytes_recv=945003964L, packets_sent=699890L, packets_recv=923188L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:47.011000
+cpu: [88.0, 95.3, 97.0, 86.4]
+mem: svmem(total=17055121408L, available=4370628608L, percent=74.4, used=12684492800L, free=4370628608L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1832026, read_bytes=16409159168L, write_bytes=48602179584L, read_time=79029340L, write_time=393988010L)}
+net: snetio(bytes_sent=183920413L, bytes_recv=945013260L, packets_sent=699896L, packets_recv=923194L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:48.544000
+cpu: [98.5, 93.7, 98.4, 92.2]
+mem: svmem(total=17055121408L, available=4533018624L, percent=73.4, used=12522102784L, free=4533018624L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1832035, read_bytes=16409159168L, write_bytes=48604325376L, read_time=79029340L, write_time=393994910L)}
+net: snetio(bytes_sent=183921252L, bytes_recv=945019921L, packets_sent=699903L, packets_recv=923204L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:50.097000
+cpu: [100.0, 95.3, 93.7, 84.4]
+mem: svmem(total=17055121408L, available=4363431936L, percent=74.4, used=12691689472L, free=4363431936L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1832045, read_bytes=16409159168L, write_bytes=48605484544L, read_time=79029340L, write_time=394001520L)}
+net: snetio(bytes_sent=183921307L, bytes_recv=945024897L, packets_sent=699904L, packets_recv=923207L, errin=0L, errout=0L, dropin=0L, dropout=0L)
+
+
+2016-09-16 20:55:51.639000
+cpu: [98.5, 98.5, 100.0, 90.8]
+mem: svmem(total=17055121408L, available=4492152832L, percent=73.7, used=12562968576L, free=4492152832L)
+disk: {'PhysicalDrive0': sdiskio(read_count=825982, write_count=1832054, read_bytes=16409159168L, write_bytes=48607753728L, read_time=79029340L, write_time=394003780L)}
+net: snetio(bytes_sent=183921362L, bytes_recv=945032860L, packets_sent=699905L, packets_recv=923208L, errin=0L, errout=0L, dropin=0L, dropout=0L)
